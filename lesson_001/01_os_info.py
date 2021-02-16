@@ -1,5 +1,4 @@
 # информация по системе
-
 import platform, sys
 
 info = 'OS info is \n{}\n\nPython version is {} {}'.format(
