@@ -1,4 +1,5 @@
 # информация по системе
+# TODO запустить этот скрипт
 import platform, sys
 
 info = 'OS info is \n{}\n\nPython version is {} {}'.format(
